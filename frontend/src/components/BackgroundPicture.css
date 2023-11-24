@@ -1,0 +1,10 @@
+.background-picture {
+    background-image: url('/src/assets/earthSpaceView.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -5,7 +5,7 @@ backend/backend/__pycache__/
 
 backend/.DS_Store
 
-backend/.env.dev
+.env.dev
 
 .DS_Store
 
